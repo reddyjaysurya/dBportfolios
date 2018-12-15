@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    tools:context=".contents">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbarFadeDuration="500">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id='@+id/titleWindow'
+                android:layout_width="match_parent"
+                android:layout_height="90dp"
+                android:fadingEdge="vertical"
+                android:fontFamily="@font/crete_round"
+                android:gravity="center_vertical"
+                android:includeFontPadding="false"
+                android:scrollbarAlwaysDrawHorizontalTrack="false"
+                android:scrollbarAlwaysDrawVerticalTrack="false"
+                android:scrollbarTrackVertical="@style/Platform.V25.AppCompat"
+                android:textColor="@color/contentTitle"
+                android:textSize="25sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id='@+id/msgWindow'
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@id/titleWindow"
+                android:fontFamily="@font/buenard"
+                android:text="@string/cont"
+                android:textSize="16sp" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

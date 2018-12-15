@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">dB Learn</string>
+
+
+    <string-array name="titles">
+        <item>Basics / Investment Fundamentals / Why Invest?</item>
+        <item>Stock and Mutual Funds</item>
+        <item>Building Successful Portfolios</item>
+        <item>Reading Annual Report</item>
+        <item>Your Investing Life</item>
+    </string-array>
+
+    <string-array name="Chp1_subtitles">
+        <item>Importance of Saving</item>
+        <item>Magic of Compounding</item>
+        <item>Financial Goals</item>
+        <item>Traditional Investments in India</item>
+        <item>FD, Investment and Insurance</item>
+        <item>Common Mistakes to avoid</item>
+        <item>Benefits of starting early</item>
+        <item>What to Invest</item>
+        <item>Investment Basics</item>
+        <item>Risk and safety</item>
+        <item>L”earn”ing makes a difference</item>
+        <item>Learning with Simulator</item>
+    </string-array>
+
+    <string-array name="Chp2_subtitles">
+        <item>What is Equity / stock?</item>
+        <item>What are Mutual Funds</item>
+        <item>Understanding Expense Ratios</item>
+        <item>Why buy stocks?</item>
+        <item>IPO and Secondary Market</item>
+        <item>Stock Exchanges (BSE and NSE)</item>
+        <item>Sensex and Nifty</item>
+        <item>Market Capitalization</item>
+        <item>Penny stocks</item>
+        <item>Dividends, Bonus and Stock Splits</item>
+    </string-array>
+
+    <string-array name="Chp3_subtitles">
+        <item>Building Cricket team vs Building Portfolio</item>
+        <item>Characteristics of good company</item>
+        <item>Understanding Company culture, Products and Managements</item>
+        <item>Company / Brand Moat</item>
+        <item>Margin of Safety</item>
+        <item>Circle of competence</item>
+        <item>Growth Industry and Commodity stocks</item>
+    </string-array>
+
+    <string-array name="Chp4_subtitles">
+        <item>Balance Sheet and Important Financial Ratios</item>
+        <item>Cash Flow</item>
+        <item>Cash and Debt</item>
+        <item>Debt free / Low debt</item>
+        <item>Sales /Profit Growth</item>
+    </string-array>
+
+    <string-array name="Chp5_subtitles">
+        <item>Opening Brokerage account</item>
+        <item>Building Diversified Portfolio</item>
+        <item>How to KIS?</item>
+        <item>Importance of taking Advice</item>
+        <item>Risk vs Reward</item>
+        <item>Controlling emoticons</item>
+        <item>Mistakes to avoid</item>
+        <item>When to Sell</item>
+        <item>Order Types</item>
+        <item>Leverage / Margin</item>
+        <item>Short Selling</item>
+        <item>Monitoring Your Investment and Portfolio changes</item>
+        <item>Futures and Options</item>
+    </string-array>
+
+    <string name="cont">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer vitae justo eget magna fermentum iaculis eu non. Volutpat est velit egestas dui id ornare arcu odio. Bibendum at varius vel pharetra. Dignissim suspendisse in est ante in nibh mauris. Aenean et tortor at risus viverra adipiscing. Congue eu consequat ac felis donec et. Integer quis auctor elit sed vulputate mi sit amet mauris. Aliquet bibendum enim facilisis gravida neque convallis a cras. Arcu risus quis varius quam quisque id. Non diam phasellus vestibulum lorem. Consectetur adipiscing elit ut aliquam purus sit amet luctus. Mauris ultrices eros in cursus turpis massa tincidunt dui ut. Sem integer vitae justo eget. Neque ornare aenean euismod elementum nisi quis. Molestie a iaculis at erat. Faucibus turpis in eu mi. Euismod in pellentesque massa placerat duis ultricies lacus. Suspendisse sed nisi lacus sed viverra. Nisi scelerisque eu ultrices vitae.
+        Consectetur adipiscing elit pellentesque habitant morbi tristique. At volutpat diam ut venenatis tellus in. Consectetur purus ut faucibus pulvinar elementum. Nec feugiat nisl pretium fusce id velit ut tortor. Tristique senectus et netus et malesuada. Euismod elementum nisi quis eleifend quam adipiscing vitae proin sagittis. Pulvinar pellentesque habitant morbi tristique. Nunc consequat interdum varius sit amet mattis vulputate. Ultricies integer quis auctor elit sed. Volutpat commodo sed  egestas fringilla phasellus. Risus viverra adipiscing at in. Viverra adipiscing at in tellus integer feugiat scelerisque varius. Quam nulla porttitor massa id neque aliquam vestibulum morbi blandit. Felis donec et odio pellentesque. Semper eget duis at tellus at urna condimentum. Leo vel fringilla est ullamcorper eget. Imperdiet proin fermentum leo vel orci porta non pulvinar.
+        Accumsan lacus vel facilisis volutpat est velit. Odio eu feugiat pretium nibh ipsum consequat. Tortor at auctor urna nunc. Nunc aliquet bibendum enim facilisis gravida. Sed libero enim sed faucibus turpis in eu mi. Diam volutpat commodo sed egestas. Faucibus pulvinar elementum integer enim neque volutpat ac. Sem et tortor consequat id. Iaculis eu non diam phasellus vestibulum lorem. Ullamcorper malesuada proin libero nunc consequat interdum. Duis convallis  tellus id interdum. A lacus vestibulum sed arcu non odio. Urna neque viverra justo nec. Cursus turpis massa tincidunt dui ut ornare. In hac habitasse platea dictumst quisque sagittis purus. Fames ac turpis egestas integer eget aliquet nibh praesent.
+        Id volutpat lacus laoreet non curabitur. At in tellus integer feugiat scelerisque varius. Ac tortor vitae purus faucibus. Molestie ac feugiat sed lectus vestibulum mattis. Purus ut faucibus pulvinar elementum. A diam maecenas sed enim. Nunc sed id semper risus. Enim praesent elementum facilisis leo vel. Risus commodo viverra maecenas accumsan lacus vel facilisis. Tempor orci dapibus ultrices in iaculis nunc sed augue lacus. Amet risus nullam eget felis eget nunc. Ut faucibus pulvinar elementum integer enim neque volutpat ac tincidunt. Nisi lacus sed viverra tellus. Mus mauris vitae ultricies leo integer malesuada. Egestas pretium aenean pharetra magna. Semper auctor neque vitae tempus quam pellentesque. Lorem ipsum dolor sit amet consectetur adipiscing elit.
+        Aliquam ut porttitor leo a diam sollicitudin tempor id. Id consectetur purus ut faucibus. Consectetur lorem donec massa sapien faucibus et. Fringilla ut morbi tincidunt augue interdum velit euismod in pellentesque. Euismod elementum nisi quis eleifend quam adipiscing. Senectus et netus et malesuada fames ac turpis. Justo donec enim diam vulputate ut pharetra sit. Aenean vel elit scelerisque mauris. Purus sit amet luctus venenatis lectus magna fringilla urna. Elementum integer enim neque volutpat ac tincidunt. Malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel. Augue lacus viverra vitae congue eu consequat ac felis donec.
+    </string>
+
+
+</resources>
